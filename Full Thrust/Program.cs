@@ -6,7 +6,7 @@ namespace Full_Thrust
     {
         static void Main (string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Ship testShip = new Ship();
         }
     }
 }
